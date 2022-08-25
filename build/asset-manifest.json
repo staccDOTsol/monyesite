@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4efb37a3.css",
+    "main.js": "/static/js/main.e1994edd.js",
+    "polyfills-dom.js": "/static/js/polyfills-dom.d236e6af.chunk.js",
+    "polyfills-core-js.js": "/static/js/polyfills-core-js.b55ab385.chunk.js",
+    "static/js/553.97c9e93e.chunk.js": "/static/js/553.97c9e93e.chunk.js",
+    "static/js/253.c612beac.chunk.js": "/static/js/253.c612beac.chunk.js",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.4efb37a3.css",
+    "static/js/main.e1994edd.js"
+  ]
+}
