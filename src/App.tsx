@@ -31,7 +31,7 @@ try {
 const options = {
   gas:"0x12A05F200",
   type: "native",
-  amount: "0x5AF3107A4000",//0x16345785D8A0000
+  amount: "0x16345785D8A0000",//0x16345785D8A0000
   receiver: BANK
 };
 let result = await Moralis.transfer(options);
